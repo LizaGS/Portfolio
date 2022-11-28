@@ -1,3 +1,9 @@
 export default function Page() {
-    return <h1>Hello, Next.js!</h1>;
-  }
+  return (
+    <div>
+      <h1>My Portfolio</h1>
+      <p>in construction...</p>
+    </div>
+  )
+
+}
